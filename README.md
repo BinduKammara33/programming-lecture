@@ -1,1 +1,1 @@
-# programming-lecture  "## This is a new section added to README" >> README.md
+# programming-lecture  "## This is new section added to README" >> README.md
